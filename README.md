@@ -23,4 +23,4 @@
  <a href="https://react.dev/reference/react"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/reactjs.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-resende-vevo&show_icons=true&locale=en&layout=compact"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sl3nc&show_icons=true&locale=en&layout=compact"/></p>
