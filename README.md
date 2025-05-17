@@ -1,5 +1,5 @@
 <img align="right" alt="Gif" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952l38gqf4uy38xe2hqzxrbutc99brr4cnkew525prl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-resende-vevo&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sl3nc&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 - 👨‍💻 I’m currently working on **React projects**
 
